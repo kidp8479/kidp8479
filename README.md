@@ -23,9 +23,10 @@ f9e8d7c  (HEAD -> main) product-minded full-stack dev in the making
 $ cat ~/.whoami
 tinkerer-in-chief, reads man pages for fun
 $ cat << 'EOF'
-editing is deciding what matters in a pile of raw footage and
-cutting the rest. coding turned out to be the same call on
-different material, so more of it transferred than I expected.
+ancient editor, new coder. editing is deciding what matters in a
+pile of raw footage and cutting the rest. coding turned out to be
+the same call on different material, so more of it transferred
+than I expected.
 EOF
 ```
 
