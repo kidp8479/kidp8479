@@ -17,8 +17,8 @@
 ```console
 $ git log --oneline --reverse --decorate pauline/
 b0a71e0  10+ years cutting film: clips, documentaries, news
-c1d2e3f  2025: switched careers, still learning how computers actually work
-a4d5e6f  2026: finished 42 Paris common core, picking a specialization next
+c1d2e3f  2025: switched careers, joined 42 Paris, learned how computers actually work
+a4d5e6f  2026: finished 42 Paris common core
 f9e8d7c  (HEAD -> main) product-minded full-stack dev in the making
 $ cat ~/.whoami
 tinkerer-in-chief, reads man pages for fun
