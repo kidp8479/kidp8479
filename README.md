@@ -30,7 +30,9 @@ the same call on different material.
 EOF
 ```
 
-Having a blast as a swiss-army-knife, product-minded dev intern at **Beev**, a fast-moving startup electrifying company fleets and installing turnkey charging stations for individuals and businesses. I build on their SaaS and internal tools with TypeScript (Nest, React), and my other [GitHub](https://github.com/paulinef8479) is where the work stuff lives. On the side: a legal torrent-fetching tool, a growing pull toward devops (CI, containers, the stuff that runs the stuff), and a deep agentic rabbit hole: harnesses, self-improving loops, agent architecture, with my colleague Claude.
+Having a blast as a swiss-army-knife, product-minded dev intern at **Beev**, a fast-moving startup electrifying company fleets, from vehicles to turnkey charging stations, for individuals and businesses. I build on their SaaS and internal tools with TypeScript (Nest, React), and my other [GitHub](https://github.com/paulinef8479) is where the work stuff lives. On the side: a legal torrent-fetching tool, a growing pull toward devops (CI, containers, the stuff that runs the stuff), and a deep agentic rabbit hole: harnesses, self-improving loops, agent architecture, with my colleague Claude.
+
+I thrive in another corner of the tech spectrum (editing and workflows were already one), with a head buzzing with concepts, builds and possibilities. I love it, and I feel at home in the way the industry is shifting right now.
 
 <table align="center"><tr><td align="center">
 
