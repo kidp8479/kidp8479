@@ -30,6 +30,8 @@ the same call on different material.
 EOF
 ```
 
+Client briefs in editing are never clear either: "make it punchier" is basically the "it should feel more modern" of code reviews. You learn fast to become a bit of a wizard mind reader, guessing what people actually want when they can't quite say it themselves, because half the time they don't know until you show them the wrong version first. And "finished" was always a lie in editing too, there's always one more cut you could make. Shipping software has the exact same problem, just with more Slack messages about it. But honestly, I love that part. Figuring out what someone actually needs, even when they can't put it into words, is the best puzzle there is.
+
 Having a blast as a swiss-army-knife, product-minded dev intern at **Beev**, a fast-moving startup electrifying company fleets, from vehicles to turnkey charging stations, for individuals and businesses. I build on their SaaS and internal tools with TypeScript (Nest, React), and my other [GitHub](https://github.com/paulinef8479) is where the work stuff lives. On the side: a legal torrent-fetching tool, a growing pull toward devops (CI, containers, the stuff that runs the stuff), and a deep agentic rabbit hole: harnesses, self-improving loops, agent architecture, with my colleague Claude.
 
 I thrive in another corner of the tech spectrum (video editing was already a technical craft), with a head buzzing with concepts, builds and possibilities. I bring the product and user experience mindset of editing into my dev toolbox, and being right at the heart of the storm of change in the profession is incredibly enriching.
@@ -38,28 +40,54 @@ I thrive in another corner of the tech spectrum (video editing was already a tec
 
 [![open to work](https://img.shields.io/badge/open%20to%20work-2ea043?style=for-the-badge)](mailto:kidp8479@gmail.com)
 
-more atomic commits, fewer mystery-novel changelogs, questions asked before the first line of code
+to say it the LinkedIn way: add me to your team for more atomic commits, fewer mystery-novel changelogs, and questions asked before the first line of code
+
+underneath all of it I'm just an enthusiast, always eager to learn, a product-minded dev at heart
 
 </td></tr></table>
 
 ## how to be my best buddy
 
+I get genuinely excited about a well-organized, scalable, clean system, the kind where you open the repo six months later and it still makes sense without a Slack archaeology session. Here's what gets me:
+
 <table>
-<tr><td><b>good practices</b></td><td>atomic commits, conventional prefixes, PRs small enough to really review, and review comments that explain why and offer a way out</td></tr>
-<tr><td><b>tools</b></td><td>I love configuring them. Neovim and I are in a toxic relationship, and I've read every option on the branch protection settings page for fun</td></tr>
-<tr><td><b>workflows worth hardening</b></td><td>CI that catches a broken build before a teammate does, pre-commit hooks that save me from my 6pm typos, a branching strategy agreed on in five minutes</td></tr>
-<tr><td><b>docs that help</b></td><td>a README with a quickstart under five minutes, comments that explain the weird decision, commit messages future me can still read</td></tr>
-<tr><td><b>clear communication</b></td><td>say it in one message, flag blockers early, ask the dumb question first</td></tr>
+<tr><td><b>good practices</b></td><td>
+
+atomic commits that do one thing, conventional commit prefixes so the changelog isn't a mystery novel, PRs small enough to actually review properly instead of skimming and approving out of guilt. Code reviews where the comment explains why and offers a way out, not just "change this", because somebody took the time to write that code and deserves an actual conversation about it, not a drive-by correction
+
+</td></tr>
+<tr><td><b>tools</b></td><td>
+
+I love tools. Testing them, configuring them, tweaking every setting until it fits exactly how I work. I tried Neovim once and now we're in a toxic relationship, time stops existing, I look up and it's 2am and I've configured seventeen keybindings I'll never remember. Also I'm a menace when it comes to GitHub branch protection rules, required reviewers, status checks, linear history, no force push to main, I've read every option in that settings page for fun. And I get weirdly happy setting up a linter and formatter combo following something like antfu's eslint config, instead of just keeping whatever the framework shipped with by default
+
+</td></tr>
+<tr><td><b>workflows worth hardening</b></td><td>
+
+a CI pipeline that catches a broken build before it ever reaches a teammate, pre-commit hooks that save me from my own 6pm typos, a branching strategy the whole team actually agreed on in a five minute conversation instead of one person just deciding it and everyone quietly resenting it
+
+</td></tr>
+<tr><td><b>docs that actually help</b></td><td>
+
+a README with a real quickstart that gets someone running in under five minutes, comments that explain the weird decision instead of restating the code line by line, commit messages I can read in six months and still understand what past-me was thinking, and honestly still be a little proud of
+
+</td></tr>
+<tr><td><b>clear communication</b></td><td>
+
+same instinct as editing, say the thing in one message instead of three, flag a blocker before it becomes a fire drill, ask the dumb question early instead of guessing wrong for two days and making everyone's Friday worse
+
+</td></tr>
 </table>
 
 ## the vocabulary
 
-- **commits & flow** · atomic commits, conventional commits, git flow, one issue = one branch = one PR
-- **before merge** · re-read the diff, green CI, pre-commit hooks, secret scanning, a test per new behavior
+if I were an ATS, here's the keyword list that'd make anyone auto-pass my filter:
+
+- **commits & flow** · atomic commits, conventional commits, git flow, one issue = one branch = one PR, clean merge/rebase/reconciliation strategy
+- **before merge** · re-read the diff, green CI, pre-commit hooks, secret scanning, a test per new behavior, web-security-review
 - **decisions & docs** · ADR, comment the why, document the public surface
-- **planning & collab** · kanban, Linear, Notion, Miro, Figma, Excalidraw, Slack
-- **wiring things together** · MCP, so Claude can check the ticket and read the diff itself
-- **still leveling up** · TDD, observability, code owners, rollback plan, feature flags, postmortems
+- **planning & collab** · kanban, Linear, Notion, Miro, Figma, Excalidraw, Slack, Discord (hand me any of them and watch me light up)
+- **wiring things together** · MCP, so Claude can go check the ticket, read the diff or open the PR instead of me copy-pasting context around
+- **still leveling up** · TDD, definition of ready & done, user journey, NFR, observability, code owners, rollback plan, feature flags, postmortems
 
 ## reach me
 
